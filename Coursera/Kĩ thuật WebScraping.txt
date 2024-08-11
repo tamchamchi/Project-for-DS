@@ -1,0 +1,8 @@
+Kĩ thuật WebScraping
+link git: https://github.com/tamchamchi/Project-for-DS.git
+Bao gồm các file .ipynb chứa các phần lý thuyết và bài tập.
+Thứ tự xem:
+1. WebScraping_Review_Lab.ipynb
+2. Final Assignment WebScraping.ipynb
+3. Final_Assignment Libary.ipynb
+4. Final Assignment.ipynb
